@@ -1,5 +1,5 @@
 # TestsForInterview
-Task from ATOLLis for https://demoqa.com/automation-practice-form
+Tests for https://demoqa.com/automation-practice-form
 
 Что не получилось сделать: Не реализован выбор из выпадающего списка, т.к. верстка сайта не позволяет прочитать тег выпадающего списка
  (при попытке посмотреть тег списка он сворачивается и пропадает тег из верстки. Не помогла даже приостановка
